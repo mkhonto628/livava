@@ -44,7 +44,7 @@ export default function LiverpoolFanPage() {
           </div>
           <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold">
             <Users className="mr-2 h-5 w-5" />
-            Join Group
+            <a href="mkhonto.apk">Download App</a>
           </Button>
         </div>
       </header>
